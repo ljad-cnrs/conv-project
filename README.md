@@ -35,5 +35,5 @@ This project has been presented in the following conferences:
 
 This project has received financial support from the CNRS through the MITI interdisciplinary programs through its exploratory research program.
 
-<img src="https://github.com/user-attachments/assets/cbd48fdb-f706-4b4a-b29b-6e5f8c4b9267" height="200">
+<img src="https://github.com/user-attachments/assets/ef743692-2a14-43ce-a491-4fce6d80027d" height=200>
 <img src="https://github.com/user-attachments/assets/bfb956bd-ed09-4c51-92cd-688583ed7135" height="200">

@@ -20,20 +20,20 @@ numerically simulating and optimising control fields for such systems. The contr
 [Hans Jauslin](https://icb.cnrs.fr/equipe/hans-rudolf-jauslin/), ICB
 
 [Camille Lombard-Latune](https://icb.cnrs.fr/equipe/lombard-latune-camille/), ICB
-
 [Dominique Sugny](https://icb.cnrs.fr/equipe/dominique-sugny/), ICB
 
 [David Tinoco](https://team.inria.fr/mctao/team-members/), LJAD / McTAO
 
 ## References
 
-This project has been presented in the following conferences: 
+27ème Congrès Général de la Société Française de Physique (SFP), June 2025, "Control of multi-spin systems toward large-scale quantum technologies", C. Babin, O. Fresse-Colson and D. Sugny, poster
 
-- 27ème Congrès Général de la Société Française de Physique (SFP), June 2025, "Control of multi-spin systems toward large-scale quantum technologies", C. Babin, O. Fresse-Colson and D. Sugny, poster
+
+[Tinoco, D.; Babin, C.; Beschastnyi, I.; Caillau, J.-B.; Sugny, D. Control of an NV center as a two-qubit system. *HAL preprint* (2025), no. hal-05404999](https://hal.science/hal-05404999)
 
 ## Joint project between Labo. J. A. Dieudonné (LJAD) and Labo. Interdisciplinaire Carnot de Bourgogne (ICB)
 
-This project has received financial support from the CNRS through the MITI interdisciplinary programs through its exploratory research program.
+This project has received financial support from the CNRS through the MITI interdisciplinary programs.
 
 <img src="https://github.com/user-attachments/assets/ef743692-2a14-43ce-a491-4fce6d80027d" height=200>
 <img src="https://github.com/user-attachments/assets/bfb956bd-ed09-4c51-92cd-688583ed7135" height="200">
